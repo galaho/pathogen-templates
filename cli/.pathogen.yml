@@ -1,0 +1,12 @@
+ignore:
+  - '\.pathogen\.yml$'
+variables:
+  - name: module
+    description: the go module of the cli (e.g., github.com/galaho/pathogen)
+  - name: name
+    description: the name of the cli
+  - name: description
+    description: the description of the cli
+  - name: author
+    description: the author of the cli
+scripts:
